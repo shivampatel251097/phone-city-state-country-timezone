@@ -1,0 +1,19 @@
+{
+  "name": "phone-city-state-country-timezone",
+  "version": "1.0.0",
+  "description": "Get timezone by phone number, city, state, province, country and ISO code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivampatel251097/phone-city-state-country-timezone.git"
+  },
+  "author": "Shivam Patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivampatel251097/phone-city-state-country-timezone/issues"
+  },
+  "homepage": "https://github.com/shivampatel251097/phone-city-state-country-timezone#readme"
+}
